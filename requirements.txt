@@ -1,0 +1,7 @@
+requests
+numpy>=1.20.0
+matplotlib
+scikit-learn
+openpyxl
+pandas
+streamlit
