@@ -31,6 +31,7 @@ python -m pip install --upgrade pip
 REM Installieren der erforderlichen Pakete
 python -m pip install -r requirements.txt
 
+
 REM Deaktivieren der virtuellen Umgebung
 deactivate
 
