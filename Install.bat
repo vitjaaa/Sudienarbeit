@@ -31,6 +31,8 @@ python -m pip install --upgrade pip
 REM Installieren der erforderlichen Pakete
 python -m pip install -r requirements.txt
 
+REM Entpacken der Datei Daten.zip
+7z x Daten.zip
 
 REM Deaktivieren der virtuellen Umgebung
 deactivate
