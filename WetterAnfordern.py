@@ -5,7 +5,7 @@ import pandas as pd
 import schedule
 
 
-api_key = "klfpDs21kW2aOdS9km3dVCZyF4BmzWpW"
+api_key = ""
 latitude = "48.07"
 longitude = "11.62"
 
